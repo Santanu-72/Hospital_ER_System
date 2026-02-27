@@ -1,3 +1,3 @@
 ## 📸 Dashboard Preview
 
-![Hospital ER Dashboard](dashboard.png)
+![Hospital ER Dashboard](Dashboard.png)
