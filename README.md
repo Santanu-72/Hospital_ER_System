@@ -81,8 +81,7 @@ The dataset includes:
 ## 📎 Project Files
 
 - 📊 [Download Hospital ER Dashboard](Hospital_ER_Project.xlsx)
-- 📂 [Raw Dataset](Hospital_ER_Dataset.xlsx)
-- 🖼️ [Dashboard Screenshot](Dashboard.png)
+- 📂 [Raw Dataset](Hospital_Emergency_Room_Dataset.xlsx)
 
 - ## 📸 Dashboard Preview
 
