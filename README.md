@@ -78,6 +78,11 @@ The dataset includes:
 - Designing professional, interactive reports
 
 ---
+## 📎 Project Files
+
+- 📊 [Download Hospital ER Dashboard](Hospital_ER_Project.xlsx)
+- 📂 [Raw Dataset](Hospital_ER_Dataset.xlsx)
+- 🖼️ [Dashboard Screenshot](Dashboard.png)
 
 - ## 📸 Dashboard Preview
 
