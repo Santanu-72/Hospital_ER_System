@@ -15,7 +15,7 @@ This project demonstrates my ability to perform data cleaning, KPI calculation, 
 - Monitor total ER patient visits  
 - Analyze patient admission vs non-admission rates  
 - Track average waiting time  
-- Identify peak visit hours and busiest days  
+- Identify peak visits and busiest months  
 - Evaluate department-wise patient distribution  
 - Improve operational efficiency through data insights  
 
